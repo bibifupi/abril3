@@ -1,8 +1,10 @@
 package com.softtek.presentacion;
 
-public class Main {
+public class ProbarProducto {
     public static void main(String[] args) {
-        System.out.println("Hola Mundo");
+
+
+
 
 
 
